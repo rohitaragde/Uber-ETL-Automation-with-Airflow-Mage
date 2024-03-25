@@ -33,10 +33,6 @@ This project aims to conduct comprehensive data analytics on Uber datasets by le
 ### Modern Data Pipeline Tool
 - [Mage](https://www.mage.ai/)
 
-### Contribute to this Open Source Project
-- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)
-
-
 
 ## Dataset Used
 TLC Trip Record Data
