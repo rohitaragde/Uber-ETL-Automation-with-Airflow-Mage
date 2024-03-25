@@ -2,7 +2,8 @@
 
 ## Introduction
 
-## Goal:  Perform Uber data analytics using GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
+## Goal:  
+Perform Uber data analytics using GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
 ## Architecture 
 <img src="architecture.jpg">
