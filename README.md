@@ -3,10 +3,18 @@
 ## Introduction
 The project focuses on performing thorough data analytics on Uber datasets, leveraging an array of tools like GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio. Our methodology includes:
 
-Structuring Uber data using Lucid for a comprehensive data model.
-Extracting data from APIs and transforming it into a star schema with Mage, then loading it into BigQuery, utilizing Google Cloud's compute instance.
-Conducting in-depth analysis on Google BigQuery to capitalize on its computational capabilities.
-Presenting insights through intuitive visualizations using Google's Looker Studio
+# Project Overview
+
+This project aims to conduct comprehensive data analytics on Uber datasets by leveraging a variety of tools and technologies. The process involves several key steps:
+
+- **Data Structuring with Lucid:** We begin by structuring Uber data using Lucid to create a comprehensive data model.
+
+- **Data Extraction and Transformation with Mage:** Using Mage, we extract data from APIs and transform it into a star schema. Subsequently, the transformed data is loaded into BigQuery, making use of Google Cloud's compute instance.
+
+- **In-depth Analysis on Google BigQuery:** We delve into detailed analysis on Google BigQuery, harnessing its computational capabilities to gain valuable insights from the data.
+
+- **Visualizations with Looker Studio:** Insights derived from the analysis are presented through intuitive visualizations using Google's Looker Studio.
+
 
 ## Architecture 
 <img src="architecture.jpg">
