@@ -48,6 +48,9 @@ More info about dataset can be found here:
 <img src="data_model.jpeg">
 
 ## Screenshots
+<img src="images/gcp_bucket.png">
+<img src="images/architecture.jpg">
+<img src="images/architecture.jpg">
 
 ## Complete Video Tutorial 
 Video Link - https://youtu.be/WpQECq5Hx9g
