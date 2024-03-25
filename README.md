@@ -1,9 +1,12 @@
 # Uber-ETL-Automation-with-Airflow-Mage
 
 ## Introduction
+The project focuses on performing thorough data analytics on Uber datasets, leveraging an array of tools like GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio. Our methodology includes:
 
-## Goal:  
-Perform Uber data analytics using GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
+Structuring Uber data using Lucid for a comprehensive data model.
+Extracting data from APIs and transforming it into a star schema with Mage, then loading it into BigQuery, utilizing Google Cloud's compute instance.
+Conducting in-depth analysis on Google BigQuery to capitalize on its computational capabilities.
+Presenting insights through intuitive visualizations using Google's Looker Studio
 
 ## Architecture 
 <img src="architecture.jpg">
