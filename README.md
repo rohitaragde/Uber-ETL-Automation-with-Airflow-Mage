@@ -19,18 +19,23 @@ This project aims to conduct comprehensive data analytics on Uber datasets by le
 ## Architecture 
 <img src="architecture.jpg">
 
-## Technology Used
-- Programming Language - Python
+## Technologies Used
 
-Google Cloud Platform
+### Programming Language
+- Python
+
+### Google Cloud Platform
 1. Google Storage
 2. Compute Instance 
 3. BigQuery
 4. Looker Studio
 
-Modern Data Pipeine Tool - https://www.mage.ai/
+### Modern Data Pipeline Tool
+- [Mage](https://www.mage.ai/)
 
-Contibute to this open source project - https://github.com/mage-ai/mage-ai
+### Contribute to this Open Source Project
+- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)
+
 
 
 ## Dataset Used
