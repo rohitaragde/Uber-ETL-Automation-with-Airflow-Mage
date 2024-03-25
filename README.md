@@ -38,7 +38,7 @@ This project aims to conduct comprehensive data analytics on Uber datasets by le
 TLC Trip Record Data
 Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. 
 
-Here is the dataset used in the video - https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/data/uber_data.csv
+Here is the dataset - https://github.com/rohitaragde/Uber-ETL-Automation-with-Airflow-Mage/blob/master/data/uber_data.csv
 
 More info about dataset can be found here:
 1. Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
