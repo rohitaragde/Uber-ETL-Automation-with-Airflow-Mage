@@ -49,8 +49,9 @@ More info about dataset can be found here:
 
 ## Screenshots
 <img src="images/gcp_bucket.png">
-<img src="images/architecture.jpg">
-<img src="images/architecture.jpg">
+<img src="images/Uber_Dashboard.jpg">
+<img src="images/cloud_vm_instance.png">
+<img src="images/bigquery.png">
 
 ## Complete Video Tutorial 
 Video Link - https://youtu.be/WpQECq5Hx9g
