@@ -17,7 +17,7 @@ This project aims to conduct comprehensive data analytics on Uber datasets by le
 
 
 ## Architecture 
-<img src="architecture.jpg">
+<img src="images/architecture.jpg">
 
 ## Technologies Used
 
