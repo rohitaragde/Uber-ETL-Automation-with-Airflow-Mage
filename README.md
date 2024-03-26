@@ -86,7 +86,9 @@ Go to Mage and write the transformation scripts in Python as required.
 
 ### Step 06: Perform ETL Process in Mage
 
-Execute the ETL process using Mage. The data will be transformed and later on will be loaded into the Google Cloud BigQuery bucket.
+Execute the ETL process using Mage. The data will be transformed and later on will be loaded into the Google Cloud BigQuery bucket. 
+
+Also, Remember to update the yaml file according to your gcp credentials from the API and Services tab in the Google CLoud.
 
 ## Data load from GCP Bucket API to Mage
 
