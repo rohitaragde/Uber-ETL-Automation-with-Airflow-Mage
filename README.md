@@ -74,7 +74,7 @@ Setup a Google Cloud Platform (GCP) Compute instance for Mage and a BigQuery buc
 
 ![Step 04 Screenshot](images/gcp_bucket.png)
 
-![Step 04 Screenshot](images/bigquery.png)
+![Step 04 Screenshot](images/bigquery.jpg)
 
 ### Step 05: Write Transformation Scripts in Mage
 
