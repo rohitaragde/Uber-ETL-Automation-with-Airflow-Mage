@@ -88,11 +88,19 @@ Go to Mage and write the transformation scripts in Python as required.
 
 Execute the ETL process using Mage. The data will be transformed and later on will be loaded into the Google Cloud BigQuery bucket.
 
+## Data load from GCP Bucket API to Mage
+
 ![Step 06 Screenshot](images/mage_data_export.png)
+
+# Perform Data Transformations to convert it into STAR Schema and all other data trasnformations
 
 ![Step 06 Screenshot](images/mage_transform.png)
 
+# Finally, Load the Data to the biquery tables
+
 ![Step 06 Screenshot](images/mage_load_bq.png)
+
+# The Mage Tree once the ETL process is successfully completed
 
 ![Step 06 Screenshot](images/mage_tree.png)
 
