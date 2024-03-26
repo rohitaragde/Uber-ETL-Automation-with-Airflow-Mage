@@ -82,27 +82,33 @@ Go to Mage and write the transformation scripts in Python as required.
 
 ![Step 05 Screenshot](images/mage_setup_scripts.png)
 
-![Step 05 Screenshot](images/mage_data_export.png)
-
-![Step 05 Screenshot](images/mage_transform.png)
-
-![Step 05 Screenshot](images/mage_load_bq.png)
-
-![Step 05 Screenshot](images/mage_tree.png)
 
 
 ### Step 06: Perform ETL Process in Mage
 
-Execute the ETL process using Mage. The data will be transformed and loaded into the Google Cloud BigQuery bucket.
+Execute the ETL process using Mage. The data will be transformed and later on will be loaded into the Google Cloud BigQuery bucket.
+
+![Step 06 Screenshot](images/mage_data_export.png)
+
+![Step 06 Screenshot](images/mage_transform.png)
+
+![Step 06 Screenshot](images/mage_load_bq.png)
+
+![Step 06 Screenshot](images/mage_tree.png)
+
+### Step 07: BigQuery Data Load and Analysis
+
+Once the data loader is executed in mage the data will be loaded finally into the bigquery tables with all the transformations performed and where the querying and analysis will be performed.
+
+![Step 07 Screenshot](images/biquery.png)
+
+### Step 08: Perform Some Additional Analysis on the Data
 
 
-Once created the GCP Bucket setup an Google CLoud BigQuery Platform wherein the data post all the transformations will be loaded finally and where the querying and analysis will be performed.
 
-![Step 04 Screenshot](images/biquery.png)
-
-### Step 07: Perform Analysis and Develop Dashboard
+### Step 09: Perform Analysis and Develop Dashboard
 
 Perform analysis on the final data and develop a final dashboard using Google Studio.
 
-![Step 07 Screenshot](images/Uber_Dashboard.jpg)
+![Step 08 Screenshot](images/Uber_Dashboard.jpg)
 
