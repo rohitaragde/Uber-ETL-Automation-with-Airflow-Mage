@@ -59,11 +59,12 @@ Open Jupyter Notebook and load the raw dataset. Have a look at the raw data.
 
 Open Lucid and create a data model based on the raw data.
 
-![Step 01 Screenshot](images/uber_data_model_lucid.png)
+![Step 02 Screenshot](images/uber_data_model_lucid.png)
 
 ### Step 03: Perform Aggregations to Convert Data into Data Model
 
 Return to Jupyter Notebook and perform all the necessary aggregations to convert the data into the data model required for replication in Mage.
+![Step 01 Screenshot](images/fact_model.png)
 
 ### Step 04: Setup GCP Compute Instance and BigQuery Bucket
 
