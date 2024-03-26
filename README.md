@@ -69,6 +69,7 @@ Return to Jupyter Notebook and perform all the necessary aggregations to convert
 ### Step 04: Setup GCP Compute Instance and BigQuery Bucket
 
 Setup a Google Cloud Platform (GCP) Compute instance for Mage and a BigQuery bucket for querying.
+![Step 04 Screenshot](images/cloud_vm_instance.png)
 
 ### Step 05: Write Transformation Scripts in Mage
 
