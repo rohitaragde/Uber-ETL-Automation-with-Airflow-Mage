@@ -69,7 +69,12 @@ Return to Jupyter Notebook and perform all the necessary aggregations to convert
 ### Step 04: Setup GCP Compute Instance and BigQuery Bucket
 
 Setup a Google Cloud Platform (GCP) Compute instance for Mage and a BigQuery bucket for querying.
+
 ![Step 04 Screenshot](images/cloud_vm_instance.png)
+
+![Step 04 Screenshot](images/gcp_bucket.png)
+
+![Step 04 Screenshot](images/bigquery.png)
 
 ### Step 05: Write Transformation Scripts in Mage
 
@@ -83,9 +88,5 @@ Execute the ETL process using Mage. The data will be transformed and loaded into
 
 Perform analysis on the final data and develop a final dashboard using Google Studio.
 
+![Step 07 Screenshot](images/Uber_Dashboard.jpg)
 
-## Screenshots
-<img src="images/gcp_bucket.png">
-<img src="images/Uber_Dashboard.jpg">
-<img src="images/cloud_vm_instance.png">
-<img src="images/bigquery.png">
