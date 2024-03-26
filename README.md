@@ -76,17 +76,29 @@ Setup a Google Cloud Platform (GCP) Compute instance for Mage
 
 ![Step 04 Screenshot](images/gcp_bucket.png)
 
-Once created the GCP Bucket setup an Google CLoud BigQuery Platform wherein the data post all the transformations will be loaded finally and where the querying and analysis will be performed.
-
-![Step 04 Screenshot](images/biquery.png)
-
 ### Step 05: Write Transformation Scripts in Mage
 
 Go to Mage and write the transformation scripts in Python as required.
 
+![Step 05 Screenshot](images/mage_setup_scripts.png)
+
+![Step 05 Screenshot](images/mage_data_export.png)
+
+![Step 05 Screenshot](images/mage_transform.png)
+
+![Step 05 Screenshot](images/mage_load_bq.png)
+
+![Step 05 Screenshot](images/mage_tree.png)
+
+
 ### Step 06: Perform ETL Process in Mage
 
 Execute the ETL process using Mage. The data will be transformed and loaded into the Google Cloud BigQuery bucket.
+
+
+Once created the GCP Bucket setup an Google CLoud BigQuery Platform wherein the data post all the transformations will be loaded finally and where the querying and analysis will be performed.
+
+![Step 04 Screenshot](images/biquery.png)
 
 ### Step 07: Perform Analysis and Develop Dashboard
 
