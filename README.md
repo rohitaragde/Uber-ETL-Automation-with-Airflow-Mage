@@ -106,13 +106,13 @@ Also, Remember to update the yaml file according to your gcp credentials from th
 
 ![Step 06 Screenshot](images/mage_tree.png)
 
-### Step 07: BigQuery Data Load and Analysis
+### Step 07: BigQuery Data Load
 
 Once the data loader is executed in mage the data will be loaded finally into the bigquery tables with all the transformations performed and where the querying and analysis will be performed.
 
 ![Step 07 Screenshot](images/biquery.png)
 
-### Step 08: Perform Some Additional Analysis on the Data
+### Step 08: Perform Some Analysis on the Data
 
 Performed some analysis post loading the final data into the bigquery tables:-
 
@@ -122,7 +122,7 @@ Performed some analysis post loading the final data into the bigquery tables:-
 
 ![Step 08 Screenshot](images/analysis_3.png)
 
-### Step 09: Perform Analysis and Develop Dashboard
+### Step 09: Finally, Perform analysing and depict the same on Google Studio
 
 Perform analysis on the final data and develop a final dashboard using Google Studio.
 
