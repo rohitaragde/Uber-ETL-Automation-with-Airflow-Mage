@@ -53,7 +53,7 @@ More info about dataset can be found here:
 
 Open Jupyter Notebook and load the raw dataset. Have a look at the raw data.
 
-![Step 01 Screenshot](path/to/raw_data_preview.png)
+![Step 01 Screenshot](images/raw_data_preview.png)
 
 ### Step 02: Open Lucid and Create a Data Model
 
