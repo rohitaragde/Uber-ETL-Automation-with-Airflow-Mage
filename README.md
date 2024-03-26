@@ -114,7 +114,13 @@ Once the data loader is executed in mage the data will be loaded finally into th
 
 ### Step 08: Perform Some Additional Analysis on the Data
 
+Performed some analysis post loading the final data into the bigquery tables:-
 
+![Step 08 Screenshot](images/analysis_1.png)
+
+![Step 08 Screenshot](images/analysis_2.png)
+
+![Step 08 Screenshot](images/analysis_3.png)
 
 ### Step 09: Perform Analysis and Develop Dashboard
 
