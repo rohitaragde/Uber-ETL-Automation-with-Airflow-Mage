@@ -49,7 +49,36 @@ More info about dataset can be found here:
 
 ## Execution Process
 
-## Step 01:- 
+### Step 01: Open Jupyter Notebook and Load the Raw Dataset
+
+Open Jupyter Notebook and load the raw dataset. Have a look at the raw data.
+
+![Step 01 Screenshot](path/to/step01_screenshot.png)
+
+### Step 02: Open Lucid and Create a Data Model
+
+Open Lucid and create a data model based on the raw data.
+
+### Step 03: Perform Aggregations to Convert Data into Data Model
+
+Return to Jupyter Notebook and perform all the necessary aggregations to convert the data into the data model required for replication in Mage.
+
+### Step 04: Setup GCP Compute Instance and BigQuery Bucket
+
+Setup a Google Cloud Platform (GCP) Compute instance for Mage and a BigQuery bucket for querying.
+
+### Step 05: Write Transformation Scripts in Mage
+
+Go to Mage and write the transformation scripts in Python as required.
+
+### Step 06: Perform ETL Process in Mage
+
+Execute the ETL process using Mage. The data will be transformed and loaded into the Google Cloud BigQuery bucket.
+
+### Step 07: Perform Analysis and Develop Dashboard
+
+Perform analysis on the final data and develop a final dashboard using Google Studio.
+
 
 ## Screenshots
 <img src="images/gcp_bucket.png">
